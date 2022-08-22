@@ -65,6 +65,11 @@
 			"lang": "zh-TW",
 			"name": "正體中文",
 			"path": "lang/zh-TW.json"
+		},
+		{
+			"lang": "pl",
+			"name": "Polski",
+			"path": "lang/pl.json"
 		}
 	],
 	"gridDistance": 1,
